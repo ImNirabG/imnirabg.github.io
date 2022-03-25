@@ -100,7 +100,7 @@ jQuery(document).ready(function($) {
       url: action,
       data: str,
       success: function(msg) {
-        alert("Your message has been sent. Thank you!");
+        alert("Your message has been received. I wil reach back to you as soon as possible. Thank You!");
         // if (msg == 'OK') {
         //   $("#sendmessage").addClass("show");
         //   $("#errormessage").removeClass("show");
