@@ -2,7 +2,7 @@
 /*-----------------------------------------------------------------------------------*/
 
 body {
-  background: #112240;
+  background: #0a192f;
   color: #898989;
   font-family: 'Poppins', sans-serif;
   font-size: 15px;
@@ -83,17 +83,17 @@ p {
 }
 
 ::-moz-selection {
-  background: #112240;
+  background: #0a192f;
   color: #fff;
 }
 
 ::selection {
-  background: #112240;
+  background: #0a192f;
   color: #fff;
 }
 
 .btn {
-  background: #112240;
+  background: #0a192f;
   border: medium none;
   border-radius: 0;
   color: #fff;
@@ -153,11 +153,11 @@ p {
 }
 
 .hvr-shutter-in-horizontal::before {
-  background: #112240;
+  background: #0a192f;
 }
 
 .hvr-shutter-in-horizontal:hover {
-  background: #112240;
+  background: #0a192f;
 }
 
 .mb-30 {
@@ -170,7 +170,7 @@ p {
 
 nav {
   position: fixed;
-  background: #112240;
+  background: #0a192f;
   z-index: 1000;
   width: 100%;
   padding: 20px;
@@ -234,7 +234,7 @@ nav ul li a {
 
 /* please work */
 #header {
-  background: #112240;
+  background: #0a192f;
   opacity: 1;
   height: 100vh;
   width: 100%;
@@ -284,7 +284,7 @@ nav ul li a {
 #about {
   width: 100%;
   height: auto;
-  background: #112240;
+  background: #0a192f;
   padding-top: 190px;
 }
 
@@ -319,7 +319,7 @@ nav ul li a {
 /*-----------------------------------------------------------------------------------*/
 
 #services {
-  background: #112240;
+  background: #0a192f;
   position: relative;
   padding-bottom: 80px;
 }
@@ -368,12 +368,12 @@ nav ul li a {
   border-radius: 50%;
   border: 0;
   padding: 0 !important;
-  background-color: #112240;
+  background-color: #0a192f;
   cursor: pointer;
 }
 
 .services-carousel .owl-dot.active {
-  background-color: #112240;
+  background-color: #0a192f;
 }
 
 .owl-nav {
@@ -450,7 +450,7 @@ nav ul li a {
 #journal,  #journal-blog {
   height: auto;
   width: 100%;
-  background: #112240;
+  background: #0a192f;
   padding-bottom: 0px;
   position: relative;
 }
@@ -556,8 +556,8 @@ nav ul li a {
 
 
 #contact  #sendmessage{
-  color: #112240;
-  border: 1px solid #112240;
+  color: #0a192f;
+  border: 1px solid #0a192f;
   display: none;
   text-align: center;
   padding: 15px;
@@ -593,7 +593,7 @@ nav ul li a {
 /*-----------------------------------------------------------------------------------*/
 
 #footer {
-  background: #112240;
+  background: #0a192f;
   padding-top: 50px;
   padding-bottom: 50px;
 }
@@ -672,7 +672,7 @@ nav ul li a {
 	content: '';
 	width: 0%;
 	height: 100%;
-	background: #112240;
+	background: #0a192f;
 	position: absolute;
 	top: 0;
 	left: 0;
@@ -684,7 +684,7 @@ nav ul li a {
   mix-blend-mode: difference;
 }
 .btn-hover-lt:hover::before {
-  background: #112240;
+  background: #0a192f;
   width: 100%;
   border-radius: 10px;
 }
