@@ -83,17 +83,17 @@ p {
 }
 
 ::-moz-selection {
-  background: #b8a07e;
+  background: #112240;
   color: #fff;
 }
 
 ::selection {
-  background: #b8a07e;
+  background: #112240;
   color: #fff;
 }
 
 .btn {
-  background: #333;
+  background: #112240;
   border: medium none;
   border-radius: 0;
   color: #fff;
@@ -153,11 +153,11 @@ p {
 }
 
 .hvr-shutter-in-horizontal::before {
-  background: #333;
+  background: #112240;
 }
 
 .hvr-shutter-in-horizontal:hover {
-  background: #b8a07e;
+  background: #112240;
 }
 
 .mb-30 {
@@ -170,7 +170,7 @@ p {
 
 nav {
   position: fixed;
-  background: #fff;
+  background: #112240;
   z-index: 1000;
   width: 100%;
   padding: 20px;
@@ -234,7 +234,7 @@ nav ul li a {
 
 /* please work */
 #header {
-  background: url("../images/home-bg6.jpg") repeat scroll center center  / cover;
+  background: #112240;
   opacity: 1;
   height: 100vh;
   width: 100%;
@@ -284,7 +284,7 @@ nav ul li a {
 #about {
   width: 100%;
   height: auto;
-  background: #f7f7f7;
+  background: #112240;
   padding-top: 190px;
 }
 
@@ -319,7 +319,7 @@ nav ul li a {
 /*-----------------------------------------------------------------------------------*/
 
 #services {
-  background: #f7f7f7;
+  background: #112240;
   position: relative;
   padding-bottom: 80px;
 }
@@ -368,12 +368,12 @@ nav ul li a {
   border-radius: 50%;
   border: 0;
   padding: 0 !important;
-  background-color: #ddd;
+  background-color: #112240;
   cursor: pointer;
 }
 
 .services-carousel .owl-dot.active {
-  background-color: #b8a07e;
+  background-color: #112240;
 }
 
 .owl-nav {
@@ -450,7 +450,7 @@ nav ul li a {
 #journal,  #journal-blog {
   height: auto;
   width: 100%;
-  background: #f7f7f7;
+  background: #112240;
   padding-bottom: 0px;
   position: relative;
 }
@@ -593,7 +593,7 @@ nav ul li a {
 /*-----------------------------------------------------------------------------------*/
 
 #footer {
-  background: #f7f7f7;
+  background: #112240;
   padding-top: 50px;
   padding-bottom: 50px;
 }
@@ -672,7 +672,7 @@ nav ul li a {
 	content: '';
 	width: 0%;
 	height: 100%;
-	background: #b8a07e;
+	background: #112240;
 	position: absolute;
 	top: 0;
 	left: 0;
@@ -684,7 +684,7 @@ nav ul li a {
   mix-blend-mode: difference;
 }
 .btn-hover-lt:hover::before {
-  background: #b8a07e;
+  background: #112240;
   width: 100%;
   border-radius: 10px;
 }
