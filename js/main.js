@@ -79,7 +79,7 @@ $(document).ready(function() {
 
   $(function() {
     typed.typed({
-      strings: ["Hardik Shrestha.", "an empowered student.", "a problem-Solver!", "a learning enthusiast!", "a chess player."],
+      strings: ["Nirab Gupta.", "a resourceful individual.", "an innovative person.", "task-oriented.", "tech-savvy.", "a  cricket player!"],
       typeSpeed: 50,
       loop: true,
     });
