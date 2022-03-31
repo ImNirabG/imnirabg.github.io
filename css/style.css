@@ -24,18 +24,18 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h2 {
-  color: #292929;
+  color: #8892b0;
   font-weight: 600;
 }
 
 h4 {
-  color: #292929;
+  color: #8892b0;
   font-size: 14px;
   font-weight: 600;
 }
 
 a {
-  color: #292929;
+  color: #8892b0;
   text-decoration: none !important;
   -moz-transition: all 0.5s ease-in-out 0s;
   -ms-transition: all 0.5s ease-in-out 0s;
@@ -331,7 +331,7 @@ nav ul li a {
   margin: 10px 0;
   position: relative;
   font-size: 13px;
-  color: #292929;
+  color: #8892b0;
   letter-spacing: 0.1em;
   font-weight: 500;
   text-transform: uppercase;
@@ -507,7 +507,7 @@ nav ul li a {
   line-height: 24px;
   margin: 0 0 13px 0;
   font-weight: 500;
-  color: #292929;
+  color: #8892b0;
   -moz-transition: all 0.5s ease-in-out 0s;
   -ms-transition: all 0.5s ease-in-out 0s;
   -o-transition: all 0.5s ease-in-out 0s;
